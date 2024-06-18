@@ -47,16 +47,5 @@ This script will:
 
 The script will print the training and validation accuracy and loss values during each epoch. It will also save the best performing model based on the validation loss.
 
-**Further Exploration:**
 
-- Experiment with different CNN architectures and hyperparameters.
-- Visualize the learned filters to understand the features the model identifies.
-- Test the model's performance on a new, unseen dataset.
 
-**License:**
-
-[Include your preferred license here, e.g. MIT License]
-
-**Contributions:**
-
-We welcome contributions to this project! Please see the CONTRIBUTING.md file for guidelines on how to contribute.
